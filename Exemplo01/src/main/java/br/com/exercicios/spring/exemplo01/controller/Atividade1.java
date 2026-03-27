@@ -14,7 +14,8 @@ public class Atividade1 {
 
     @Autowired
 
-            
+
+
     br.com.exercicios.spring.exemplo01.service.Atividade1 atividade1Service;
 
     @GetMapping("/binario-para-decimal/{binario}")
